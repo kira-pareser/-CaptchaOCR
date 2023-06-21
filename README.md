@@ -1,7 +1,7 @@
 # CaptchaOCR
-- Pipeline: EfficientNetB0 feature extracting + Basic 2 layer LSTM + CTC Loss
+- Pipeline: ResNet50V2 feature extracting + Basic 2 layer LSTM + CTC Loss
 - This just a subject projection of our team 
-- Entire source has not been completed yet...(updating)
+- 100% Accuracies per Character & 100% per Word
 
 # DATA: 
 https://www.kaggle.com/datasets/parsasam/captcha-dataset?select=116gw.jpg
